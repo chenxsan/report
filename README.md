@@ -6,4 +6,4 @@
 2. 技术过期失效
 3. 其他
 
-欢迎提 issue。
+欢迎[提 issue](https://github.com/chenxsan/report/issues/new)。
