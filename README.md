@@ -1,4 +1,4 @@
-这个库用于[我的博客文章](http://blog.zfanw.com/)勘误。
+这个库用于[我的博客文章](https://blog.zfanw.com/)勘误。
 
 如果您有发现：
 
