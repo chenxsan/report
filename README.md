@@ -4,6 +4,5 @@
 
 1. 内容表述有误
 2. 技术过期失效
-3. 其他
 
 欢迎[创建 issue](https://github.com/chenxsan/report/issues/new)。
